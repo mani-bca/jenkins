@@ -2,3 +2,5 @@
 this asmas file txt
 
 git merege
+
+loacl commit merge
