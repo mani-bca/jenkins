@@ -1,9 +1,0 @@
-
-this asmas file txt
-
-git merege
-<<<<<<< HEAD
-=======
-
-loacl commit merge
->>>>>>> main-1
